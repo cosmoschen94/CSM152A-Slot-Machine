@@ -19,4 +19,5 @@ The final report can be found here: https://drive.google.com/open?id=0B4-_Md9ylR
 
 #### VGA Display
 ![VGA Display](https://github.com/cosmoschen94/CSM152A-Slot-Machine/blob/master/VGA_trans.png "VGA Display")
+
 ![Screenshot](https://github.com/cosmoschen94/CSM152A-Slot-Machine/blob/master/VGA.JPG "Screenshot")
