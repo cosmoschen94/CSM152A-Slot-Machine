@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/152/Desktop/lab4_session3/calculate_result_tb_isim_beh.exe" -prj "C:/Users/152/Desktop/lab4_session3/calculate_result_tb_beh.prj" "work.calculate_result_tb" "work.glbl" 
